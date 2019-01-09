@@ -1,4 +1,4 @@
-# Tool that fetchs from API and send to database for posterior Data Analysis
+# Go tool that fetch from API and insert on database for posterior Data Analysis
 
 Get Transactions from API to a private MongoDB. Written in Go, the only external library necessary is mongo-go-driver, the official mongoDB driver for Go.
 
